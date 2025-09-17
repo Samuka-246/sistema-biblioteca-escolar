@@ -1,0 +1,1 @@
+SELECT * FROM biblioteca_escolar.emprestimos;
